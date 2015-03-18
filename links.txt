@@ -1,0 +1,11 @@
+bootstrap,https://github.com/twbs/bootstrap/releases/download/v3.3.4/bootstrap-3.3.4-dist.zip
+font-awesome,http://fontawesome.io/assets/font-awesome-4.3.0.zip
+skeleton,https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip
+backbone,http://backbonejs.org/backbone.js
+backbone,http://backbonejs.org/backbone-min.js
+knockout,http://knockoutjs.com/downloads/knockout-3.3.0.js
+ember,http://builds.emberjs.com/release/ember.min.js
+ember,http://builds.emberjs.com/release/ember.js
+react,http://facebook.github.io/react/downloads/react-0.13.1.zip
+underscore,http://underscorejs.org/underscore.js
+underscore,http://underscorejs.org/underscore-min.js
